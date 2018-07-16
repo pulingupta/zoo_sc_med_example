@@ -1,4 +1,4 @@
-package zoo.socialmedia.test;
+package zoo.socialmedia;
 
 import org.junit.Rule;
 import org.junit.Test;
