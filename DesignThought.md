@@ -3,7 +3,7 @@
 ZSMA is designed to be using Observer Pattern along with basic OOPS concepts of Inheritence and Polymorphism 
 to handle different species in a zoo.
 
-ZSMA is boradly divided into ZooManager (Main class), Zoo Keeper (Register for Zoo Animals) and 
+ZSMA is broadly divided into ZooManager (Main class), Zoo Keeper (Register for Zoo Animals) and 
 Relationship Manager (One who maintains relationship with different species)
 
 The code is kept in mind to use observer pattern 
